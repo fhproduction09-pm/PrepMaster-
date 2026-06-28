@@ -1,2 +1,0 @@
-# PrepMaster-
-Daily progress tracker 
